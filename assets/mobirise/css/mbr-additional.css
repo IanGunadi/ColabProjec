@@ -1372,23 +1372,96 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qQkR38wRAW {
+.cid-qQkTJw56nv {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/background3.jpg");
 }
-.cid-qQkR38wRAW .mbr-figure {
+.cid-qQkTJw56nv .mbr-figure {
   margin: 0 auto;
   width: 100%;
   display: flex;
   justify-content: center;
 }
-.cid-qQkR38wRAW .mbr-figure img {
+.cid-qQkTJw56nv .mbr-figure img {
   height: 100%;
   margin: 0 auto;
 }
 @media (max-width: 991px) {
-  .cid-qQkR38wRAW .mbr-figure img {
+  .cid-qQkTJw56nv .mbr-figure img {
     width: 100% !important;
   }
+}
+.cid-qQkTYfYiXR {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qQkTYfYiXR .card-img {
+  background-color: #fff;
+}
+.cid-qQkTYfYiXR .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-qQkTYfYiXR h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qQkTYfYiXR p {
+  text-align: left;
+}
+.cid-qQkTYfYiXR .mbr-text {
+  color: #767676;
+}
+.cid-qQkTYfYiXR .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qQkTYfYiXR .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-qQkTYfYiXR .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
+.cid-qQkTZbe6Bk {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qQkTZbe6Bk .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-qQkTZbe6Bk h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qQkTZbe6Bk p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qQkTZbe6Bk .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qQkTZbe6Bk .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qQkTZbe6Bk .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
 }
